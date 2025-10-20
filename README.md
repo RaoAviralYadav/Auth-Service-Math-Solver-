@@ -8,15 +8,25 @@ Auth Service is a comprehensive authentication solution that provides a robust b
 
 # Showcase (Preview and ScreenShots)
 
-- !()[]
+## Preview Gif
 
-- !()[]
+- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Preview.gif)[]
 
-- !()[]
+## Trignometry Problem 1
 
-- !()[]
+- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Screenshot%202025-10-20%20205305.png)
 
-- !()[]
+## Trignometry Problem 2
+
+- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Screenshot%202025-10-20%20205322.png)
+
+## Compound Interest Problem 1
+
+- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Screenshot%202025-10-20%20205343.png)
+
+## Compound Interest Problem 2
+
+- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Screenshot%202025-10-20%20205401.png)
 
 ## Features
 
