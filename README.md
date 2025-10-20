@@ -10,7 +10,7 @@ Auth Service is a comprehensive authentication solution that provides a robust b
 
 ## Preview Gif
 
-- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Preview.gif)[]
+- ![](https://github.com/RaoAviralYadav/Auth-Service-Math-Solver-/blob/e9de72bffd8a676bc3c7d8d46c3816a204a9ad11/Showcase%20(ScreenShots)/Preview.gif)
 
 ## Trignometry Problem 1
 
